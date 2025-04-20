@@ -6,7 +6,7 @@
 
 ## 📥 Download
 <a href="#" download>
-  <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
+  <img src="https://downloadly.ir/wp-content/uploads/2023/04/Wondershare-Filmora.png" alt="Download"/>
 </a>
 
 ---

